@@ -1,12 +1,11 @@
 
 ## Portfolio using React js and styled-components 2023
 
-<img src="https://res.cloudinary.com/ghazni/image/upload/v1678467366/portfolio_6_tg19nz.png" alt="banner"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/blueweight-89e89.appspot.com/o/portfolio.png?alt=media&token=f8e9e149-c03b-4af8-b546-e8cc166f3cf0" alt="banner"/>
 
 ## Demo
-[Demo](https://uxui-profile.netlify.app/)
+[Demo](https://nabeel-mern-portfolio.netlify.app/)
 
-[Tutorial Video Link](https://youtu.be/xbyoqfwCFE8)
 
 ## Features
 
@@ -19,8 +18,8 @@
 
 This portfolio is build using React JS, Styled-Components and react awesome reveal library. People can see the owners services, projects, clients ideas and also has a contact form for people to get in touch with. This project has a youtube video tutorial that teaches the React newbies about React Hook, React-Slick and responsive design.
 
-Developed By Milad Amiri 2023.
-Watch more videos from me [Milad Tech](https://www.youtube.com/@miladtech2844)
+Developed By Nabeel Schokat 2023.
+<!-- Watch more videos from me [Milad Tech](https://www.youtube.com/@miladtech2844) -->
 
 ## Technologies 
 
