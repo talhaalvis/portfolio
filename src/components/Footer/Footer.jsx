@@ -75,18 +75,18 @@ const Footer = () => {
             </Zoom>
             <Zoom>
               <span>
-                <a href="/">
+                <a href="https://www.facebook.com/profile.php?id=100087804711439&mibextid=ZbWKwL">
                   <BsFacebook />
                 </a>
               </span>
             </Zoom>
-            <Zoom>
+            {/* <Zoom>
               <span>
                 <a href="/">
                   <BsSlack />
                 </a>
               </span>
-            </Zoom>
+            </Zoom> */}
           </div>
         </div>
         <Fade>
@@ -97,12 +97,16 @@ const Footer = () => {
       </Profile>
       <Form>
         <Slide direction="right">
-          <form>
+          <form
+            action="mailto:bhattinabeel92@gmail.com"
+            method="post"
+            enctype="text/plain"
+          >
             <div className="name">
               <span>
                 <CgProfile />
               </span>
-              <input type="text" placeholder="Fullname..." required />
+              <input type="text" placeholder="FullName..." required />
             </div>
             <div className="email">
               <span>
