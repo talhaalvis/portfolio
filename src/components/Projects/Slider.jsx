@@ -15,12 +15,17 @@ let data = [
     disc: `typically printed and shipped images cards, where upload images fron canva ,facebook, instagram and edit your
  images. With stripe payment and trace shipped status.
     `,
-    demo: "https://picswagger.com/",
+    // demo: "https://picswagger.com/",
   },
   {
     img: "/assets/project/szld.png",
     disc: "Sizzld is built by gamblers for gamblers. With our unique community and a huge selection of games like Crash, HashDice, Plinko, Slots, and many more. Your greatest casino adventure is waiting for you!",
-    demo: "https://szld.herokuapp.com/",
+    // demo: "https://szld.herokuapp.com/",
+  },
+  {
+    img: "/assets/project/Goosefix.png",
+    disc: "GoesFix is job Find project . In this GoesFix you can find your ideal Dream job you can apply on jobs and Get a job.",
+    // demo: "https://szld.herokuapp.com/",
   },
   // {
   //   img: "https://res.cloudinary.com/ghazni/image/upload/v1661323980/Yt-portfolio/ui3_akynn4.png",

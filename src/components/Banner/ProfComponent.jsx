@@ -13,7 +13,7 @@ const ProfComponent = () => {
           <h4>
             Hello <span className="green">I'am</span>
           </h4>
-          <h1 className="green">Nabeel Shoukat</h1>
+          <h1 className="green">Talha Alvi</h1>
           <h3>Mern Stack Developer</h3>
           <p>
             I am a qualified and professional web developer with 2 years of
@@ -21,13 +21,13 @@ const ProfComponent = () => {
             analytical skills. Team player with an eye for detail.
           </p>
           <button>
-            <a href="https://wa.me/+923074928188"> Let's talk</a>
+            <a href="https://wa.me/+923083062896"> Let's talk</a>
           </button>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
               <span>
-                <a href="https://github.com/MNabeelBhatti">
+                <a href="https://github.com/talhaalvis">
                   <AiFillGithub />
                 </a>
               </span>
@@ -37,7 +37,7 @@ const ProfComponent = () => {
                 </a>
               </span>
               <span>
-                <a href="https://www.linkedin.com/in/nabeel-bhatti-37abb7179">
+                <a href="https://www.linkedin.com/in/talha-alvi-813078241">
                   <FaLinkedinIn />
                 </a>
               </span>
@@ -54,7 +54,7 @@ const ProfComponent = () => {
                 filter: "(0px 0px 20px 0px)",
                 zIndex: "1",
               }}
-              src={"/assets/profile/pic.png"}
+              // src={"/assets/profile/talha.jpg"}
             />
           </div>
         </Profile>

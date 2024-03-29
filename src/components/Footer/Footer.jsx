@@ -38,7 +38,7 @@ const Footer = () => {
               <FiPhoneCall />
             </span>
             <Slide direction="left">
-              <a href="tel:+923074928188">+92307 4928188</a>
+              <a href="tel:+923083062896">+92308 3062896</a>
             </Slide>
           </div>
           <div>
@@ -48,8 +48,8 @@ const Footer = () => {
               </span>
             </Slide>
             <Slide>
-              <a href="mailto:bhattinabeel92@gmail.com">
-                bhattinabeel92@gmail.com
+              <a href="mailto:talha.alvis113@gmail.com">
+                talha.alvis113@gmail.com
               </a>
             </Slide>
           </div>
@@ -61,21 +61,21 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a href="https://github.com/MNabeelBhatti">
+                <a href="https://github.com/talhaalvis">
                   <AiFillGithub />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="https://www.linkedin.com/in/nabeel-bhatti-37abb7179">
+                <a href="https://www.linkedin.com/in/talha-alvi-813078241">
                   <AiFillLinkedin />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="https://www.facebook.com/profile.php?id=100087804711439&mibextid=ZbWKwL">
+                <a href="https://www.facebook.com/talha.alvi.549?mibextid=ZbWKwL">
                   <BsFacebook />
                 </a>
               </span>
@@ -98,7 +98,7 @@ const Footer = () => {
       <Form>
         <Slide direction="right">
           <form
-            action="mailto:bhattinabeel92@gmail.com"
+            action="mailto:talha.alvis113@gmail.com"
             method="post"
             enctype="text/plain"
           >
