@@ -48,7 +48,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <div>
-            <img
+            <img alt="profile"
               style={{
                 width: "290px",
                 filter: "(0px 0px 20px 0px)",
