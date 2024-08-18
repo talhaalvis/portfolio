@@ -16,7 +16,7 @@ const ProfComponent = () => {
           <h1 className="green">Talha Alvi</h1>
           <h3>Mern Stack Developer</h3>
           <p>
-            I am a qualified and professional web developer with 2 years of
+            I am a qualified and professional web developer with 3 years of
             experience in MERN Stack web development. Strong creative and
             analytical skills. Team player with an eye for detail.
           </p>

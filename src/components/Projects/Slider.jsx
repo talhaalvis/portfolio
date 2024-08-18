@@ -23,6 +23,36 @@ let data = [
     // demo: "https://szld.herokuapp.com/",
   },
   {
+    img: "/assets/project/Capture.PNG",
+    disc: "This is AuctionWala website like E-Commerace but it is not E-commerace site he  is bidding website where seller and buyer can bid your projects like upwork also chat and calling feature",
+    demo: "https://auctionwale-frontend.vercel.app/",
+  },
+  {
+    img: "/assets/project/Capture1.PNG",
+    disc: "This is AuctionWala website like E-Commerace but it is not E-commerace site he  is bidding website where seller and buyer can bid your projects like upwork also chat and calling feature",
+    demo: "https://auctionwale-frontend.vercel.app/",
+  },
+  {
+    img: "/assets/project/Capture2.PNG",
+    disc: "This is AuctionWala website like E-Commerace but it is not E-commerace site he  is bidding website where seller and buyer can bid your projects like upwork also chat and calling feature",
+    demo: "https://auctionwale-frontend.vercel.app/",
+  },
+  {
+    img: "/assets/project/c.PNG",
+    disc: "This EMR website this project have a super admin and and company functionality this is Doctor Manage and hospital Manage system where super Admin will train and company can answer and question session.",
+    demo: "https://orange-moss-004688710.5.azurestaticapps.net/",
+  },
+  {
+    img: "/assets/project/c1.PNG",
+    disc: "This EMR website this project have a super admin and and company functionality this is Doctor Manage and hospital Manage system where super Admin will train and company can answer and question session.",
+    demo: "https://orange-moss-004688710.5.azurestaticapps.net/",
+  },
+  {
+    img: "/assets/project/c2.PNG",
+    disc: "This EMR website this project have a super admin and and company functionality this is Doctor Manage and hospital Manage system where super Admin will train and company can answer and question session.",
+    demo: "https://orange-moss-004688710.5.azurestaticapps.net/",
+  },
+  {
     img: "/assets/project/Goosefix.png",
     disc: "GoesFix is job Find project . In this GoesFix you can find your ideal Dream job you can apply on jobs and Get a job.",
     // demo: "https://szld.herokuapp.com/",
