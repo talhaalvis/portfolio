@@ -10,7 +10,7 @@ const Projects = () => {
         <h1>
           Recent <span className="green">Projects</span>
         </h1>
-        <p>Here is my some live full stack Projects</p>
+        <p>Here Is My Some Live Full Stack Projects</p>
       </Zoom>
       <Slide>
         <SliderComp />
